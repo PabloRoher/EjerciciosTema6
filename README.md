@@ -4,7 +4,7 @@ https://github.com/PabloRoher/EjerciciosTema6.git
 
 
 Ejercicios
-1. Es el mayor
+# 1. Es el mayor
 Escriba una función que tome dos valores reales como argumentos y devuelva el mayor de los dos.
 
 Escriba otra función que también tome dos valores reales como argumentos, pero que devuelva:
